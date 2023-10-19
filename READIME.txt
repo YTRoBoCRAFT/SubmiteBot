@@ -1,0 +1,76 @@
+Bot Submite By RoBo // بوت تقديم ادارة بواسطة روبو
+
+Discord : ytrobo_craft
+Youtube : RoBo Free Programme
+Instagrame : raouf._.159
+
+--------------------------
+
+#English :
+
+Make .env file and type
+
+robo = 'Your bot token here'
+
+or if you work in repl.it
+
+go to Security button in your project and make a new secret key
+secert key name is = robo
+and key is your token
+
+if you type any thing replcing name robo the project will be not working
+
+#بـالـعـربـي :
+
+قم بانشاء ملف .env و اكتب فيه ما يلي
+
+robo = 'ضع هنا توكن البوت'
+
+و في حالة انك تعمل بالريبل ات
+
+اذهب الى زر الخاص بالسكيوريتي
+اضف مفتاح جديد بأسم robo
+و ضع المعرف الخاص به هو توكن الخاص بالبوت
+
+في حالة كتبت شئ اخر ما عدا اسم روبو لن يشتغل البوت معك لذالك رجاء اترك تحريف
+
+-------------------------
+
+#English :
+
+go to sitting.json file :
+and put
+
+    "prefix": Bot prefix,
+    "ServerId": Server Id,
+    "HelpChannelId": Room id for help or ticket
+    "font":"**-------------------------------------**",
+    "SubmiteInfo": Room id for all the submite going in this room,
+    "SubmiteRole": [Role id if the member has accepted],
+    "SubmiteAdmin": Admine Role id,
+    "BlackList": Black list Role id
+
+the more thing you mast be edit for best explain
+
+Discord Server for help : https://discord.gg/F9h3NX3h9A
+
+#بـالـعـربـي :
+
+اذهب لملف sitting.json :
+و ضع
+
+    "prefix": بريفيكس الخاص بالبوت,
+    "ServerId": اي دي السيرفر الخاص بك,
+    "HelpChannelId": روم تكت او دعم فني,
+    "font":"**-------------------------------------**",
+    "SubmiteInfo": اي دي روم الذي تأتي فيه جميع التقديمات,
+    "SubmiteRole": [ايديات رتب في حالة تم قبول شخص],
+    "SubmiteAdmin": ايدي رتبة المسموح لها لقبول الاعضاء,
+    "BlackList": ايدي رتبة بلاك ليست
+
+
+باقي الامور انت عدل عليها كما ينغي لشرح افضل تفضل
+
+سيرفر ديسكورد للدعم الفني : https://discord.gg/F9h3NX3h9A
+
+-------------------------
