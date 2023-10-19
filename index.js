@@ -423,4 +423,4 @@ client.on('interactionCreate', async robo => {
   }
 })
 
-client.login('MTA5MTQ3MDk0ODI3Nzk1Njc4OQ.GOJCgL.XVbHoGGFYCM281wE7YQatbDXWKwPWTnjpQwxIg')
+client.login('')
